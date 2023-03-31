@@ -1,2 +1,0 @@
-# Etymos
-Etymos
